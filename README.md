@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ambati Praneet Rao</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **E-Learning Platform**
+- 🔭 I’m currently working on **Social Platform**
 
 - 🌱 I’m currently learning **Javascript, React JS, Node JS**
 
